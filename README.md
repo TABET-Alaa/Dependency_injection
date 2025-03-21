@@ -13,7 +13,7 @@ Le système est composé des éléments suivants :
 5. **Presentation1** : Exemple de couplage fort (instanciation directe des classes `DaoImpl` et `MetierImpl`).
 6. **DaoImplV2** : Autre implémentation de `IDao`, simule un accès aux données via un service web.
 7. **config.txt** : Contient les noms des classes à charger dynamiquement.
-8. **Presentation2** : Exemple de couplage faible (utilisation de la réflexion pour charger les classes depuis `config.txt`).
+8. **Presentation2** : Exemple de couplage faible .
 
 ## Schéma du Projet
 
